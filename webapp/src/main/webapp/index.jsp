@@ -6,7 +6,25 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Namghhhhhhhhhhhhhhhhe" id="Name" required>
     <br>
-    <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <br>
     <br>
     <br>
     <br>
